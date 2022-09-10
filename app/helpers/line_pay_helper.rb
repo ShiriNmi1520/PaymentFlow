@@ -1,0 +1,2 @@
+module LinePayHelper
+end
